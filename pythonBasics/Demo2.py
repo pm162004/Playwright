@@ -6,20 +6,20 @@ print(values[0])  # 1
 
 print(values[3])  # 4
 print(values[-1])  #5
-print(values[1:3])  # 2 rahul
-values.insert(3, "modi")   #[1, 2, 'rahul', 'shetty', 4, 5]
+print(values[1:3])  # 2 priya
+values.insert(3, "modi")   #[1, 2, 'priya', 'modi', 4, 5]
 print(values)
 values.append("End")  #[1, 2, 'rahul', 'shetty', 4, 5, 'End']
 print(values)
 
-values[2] = "RAHUL" #Updating
+values[2] = "PRIYA" #Updating
 
 del values[0]
 
 print(values)
 
 # Tuple - Same as LIST Data type but immutable
-val = (1, 2, "rahul", 4.5)
+val = (1, 2, "PRIYA", 4.5)
 
 print(val[1])
 
@@ -36,11 +36,11 @@ print(dic["c"])
 #
 dict = {}
 
-dict["firstname"] = "Rahul"
+dict["firstname"] = "PRIYA"
 
-dict["lastname"] = "shetty"
+dict["lastname"] = "MODI"
 
-dict["gender"] = "Male"
+dict["gender"] = "FEMALE"
 
 print(dict)
 print(dict["lastname"])
