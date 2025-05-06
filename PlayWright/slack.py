@@ -12,7 +12,7 @@ def send_slack_message(text):
 def test_run_test():
     try:
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
+            browser = p.chromium.launch(headless=False)
             page = browser.new_page()
             page.goto("https://example.com")
 
