@@ -8,7 +8,7 @@ import pytz
 load_dotenv()
 
 SLACK_TOKEN = os.getenv("SLACK_TOKEN")
-channel_id = "C08L16N22AU"  # Replace with your actual Slack channel ID
+channel_id = os.getenv("CHANNEL_ID") # Replace with your actual Slack channel ID
 
 import requests
 
