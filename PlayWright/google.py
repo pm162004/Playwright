@@ -16,3 +16,11 @@ def run_test():
         browser.close()
 
 run_test()
+
+
+def cloud():
+    return None
+
+
+def cloud():
+    return None
