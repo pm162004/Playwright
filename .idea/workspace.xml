@@ -5,9 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d96012aa-3bdc-4aa3-93c5-6cfcdd9f4dd8" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/Playwright.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Playwright.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayWright/automatic_quotes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayWright/google.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayWright/google.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayWright/playwrightBasics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayWright/shrubs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PytestPython/Test2PyTestValidation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PytestPython/TestPyTestValidation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PytestPython/confest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasics/ChildImp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasics/Demo2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasics/FirstDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasics/FunctionsDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasics/OopsDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasics/StringsDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasics/WhileDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasics/WriteDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasics/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasics/loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasics/readWrite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBasics/test.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +135,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PytestPython" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TrainingAutomation/PytestPython" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -123,13 +144,13 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for playwrightBasics.test_coreLocators (1)" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+    <configuration name="Python tests for playwrightBasics.test_coreLocators" type="tests" factoryName="Autodetect" nameIsGenerated="true">
       <module name="PlayewrightLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlayWright" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TrainingAutomation/PlayWright" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -144,7 +165,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlayWright" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TrainingAutomation/PlayWright" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -159,7 +180,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlayWright" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TrainingAutomation/PlayWright" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -175,12 +196,12 @@
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
       <option name="SDK_NAME" value="Python 3.12 (PlayewrightLearning)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PlayWright" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../TrainingAutomation/PlayWright" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;--headed&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/PlayWright/playwrightBasics.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../TrainingAutomation/PlayWright/playwrightBasics.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -334,7 +355,63 @@
       <option name="project" value="LOCAL" />
       <updated>1747023392182</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1747110427468</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1747110427468</updated>
+    </task>
+    <task id="LOCAL-00017" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1747110465354</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1747110465354</updated>
+    </task>
+    <task id="LOCAL-00018" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1747110492746</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1747110492746</updated>
+    </task>
+    <task id="LOCAL-00019" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1747110507785</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1747110507785</updated>
+    </task>
+    <task id="LOCAL-00020" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1747110546741</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1747110546741</updated>
+    </task>
+    <task id="LOCAL-00021" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1747110625490</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1747110625490</updated>
+    </task>
+    <task id="LOCAL-00022" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1747110680029</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1747110680029</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -351,16 +428,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
