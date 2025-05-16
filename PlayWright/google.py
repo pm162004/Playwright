@@ -4,7 +4,7 @@ def test_example(page: Page) -> None:
     page.goto("https://www.google.com/")
     page.get_by_role("combobox", name="Search").click()
     page.get_by_role("combobox", name="Search").click()
-    page.get_by_role("combobox", name="Search").fill("BNJNJK")
+    page.get_by_role("combobox", name="Search").fill("pri")
     page.get_by_role("link", name="Sign in").click()
     page.get_by_role("textbox", name="Email or phone").fill("JHJHJH")
 

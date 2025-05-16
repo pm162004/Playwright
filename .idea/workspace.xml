@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d96012aa-3bdc-4aa3-93c5-6cfcdd9f4dd8" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PlayWright/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayWright/automatic_quotes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayWright/google.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayWright/google.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayWright/playwrightBasics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlayWright/shrubs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PytestPython/Test2PyTestValidation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PytestPython/TestPyTestValidation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PytestPython/confest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/new.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasics/ChildImp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasics/Demo2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasics/FirstDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasics/FunctionsDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasics/OopsDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasics/StringsDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasics/WhileDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasics/WriteDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasics/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasics/loops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasics/readWrite.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonBasics/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PlayWright/google.py" beforeDir="false" afterPath="$PROJECT_DIR$/PlayWright/google.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +59,7 @@
     "Python.Demo2.executor": "Run",
     "Python.FirstDemo.executor": "Run",
     "Python.OopsDemo.executor": "Run",
+    "Python.Unnamed.executor": "Run",
     "Python.WhileDemo.executor": "Run",
     "Python.WriteDemo.executor": "Run",
     "Python.automatic_quotes.executor": "Run",
@@ -207,9 +187,9 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python tests.Python tests for playwrightBasics.test_coreLocators" />
       <item itemvalue="Python tests.Python tests for playwrightBasics.test_example" />
       <item itemvalue="Python tests.Python tests in playwrightBasics.py" />
-      <item itemvalue="Python tests.Python tests for playwrightBasics.test_coreLocators (1)" />
       <item itemvalue="Python tests.Python tests in /home/web-h-028/PycharmProjects/PlayewrightLearning/PlayWright/playwrightBasics.py$AffectedModuleNames$" />
       <item itemvalue="Python tests.Python tests for TestPyTestValidation.test_initialCheck" />
     </list>
