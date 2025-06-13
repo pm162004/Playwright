@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d96012aa-3bdc-4aa3-93c5-6cfcdd9f4dd8" name="Changes" comment="initial commit" />
+    <list default="true" id="d96012aa-3bdc-4aa3-93c5-6cfcdd9f4dd8" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/excel/testdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright_learning/basic_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright_learning/test_playwrightbasics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestlearning/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestlearning/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestlearning/screenshot/fullpage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestlearning/test_first_testcase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestlearning/test_fixtureswithdecorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestlearning/test_markers_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytestlearning/test_parameterize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/Basic_org.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/screenshot/element.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/screenshot/page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/test_playwright.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/test_tracing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/trace.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/videos/49bc5f6a546cd071072f6e8ca483b185.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/videos/4b4700b412e33fbd9ce35f18861b0032.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcases/videos/4f9a772c289380584d0262d36ea3239d.webm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_12_25,_9_46 AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_12_25__9_46AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,11 +71,19 @@
     "Python tests.Python tests for playwrightBasics.test_coreLocators (1).executor": "Run",
     "Python tests.Python tests for playwrightBasics.test_example.executor": "Run",
     "Python tests.Python tests for playwrightBasics.test_playwrightBasics.executor": "Run",
+    "Python tests.Python tests for test_playwrightbasics.test_coreLocators.executor": "Run",
+    "Python tests.Python tests in Basic_org.py.executor": "Run",
     "Python tests.Python tests in Test2PyTestValidation.py.executor": "Run",
     "Python tests.Python tests in TestPyTestValidation.py.executor": "Run",
     "Python tests.Python tests in google.py.executor": "Run",
     "Python tests.Python tests in playwrightBasics.py.executor": "Run",
     "Python tests.Python tests in slack.py.executor": "Run",
+    "Python tests.Python tests in test_first_testcase.py.executor": "Run",
+    "Python tests.Python tests in test_fixtureswithdecorators.py.executor": "Run",
+    "Python tests.Python tests in test_markers_ex.py.executor": "Run",
+    "Python tests.Python tests in test_parameterize.py.executor": "Run",
+    "Python tests.Python tests in test_playwright.py.executor": "Run",
+    "Python tests.Python tests in test_playwrightbasics.py.executor": "Run",
     "Python.Demo2.executor": "Run",
     "Python.FirstDemo.executor": "Run",
     "Python.OopsDemo.executor": "Run",
@@ -60,6 +92,7 @@
     "Python.WriteDemo.executor": "Run",
     "Python.automatic_quotes.executor": "Run",
     "Python.automatically_quotes.executor": "Run",
+    "Python.basic_test.executor": "Run",
     "Python.confest.executor": "Run",
     "Python.loops.executor": "Run",
     "Python.playwright_slack.executor": "Run",
@@ -71,13 +104,17 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/web-h-028/PycharmProjects/PlayewrightLearning/PlayWright/playwrightBasics.py",
-    "settings.editor.selected.configurable": "terminal"
+    "last_opened_file_path": "/home/web-h-028/PycharmProjects/PlayewrightLearning",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/playwright_learning" />
       <recent name="$PROJECT_DIR$/PytestPython" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -150,6 +187,21 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_playwrightbasics.test_coreLocators" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Playwright" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playwright_learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_playwrightbasics.test_coreLocators&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in /home/web-h-028/PycharmProjects/PlayewrightLearning/PlayWright/playwrightBasics.py$AffectedModuleNames$" type="tests" factoryName="Autodetect" nameIsGenerated="true">
       <module name="PlayewrightLearning" />
       <option name="ENV_FILES" value="" />
@@ -185,12 +237,14 @@
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python tests.Python tests for playwrightBasics.test_coreLocators" />
       <item itemvalue="Python tests.Python tests for playwrightBasics.test_example" />
-      <item itemvalue="Python tests.Python tests in playwrightBasics.py" />
       <item itemvalue="Python tests.Python tests in /home/web-h-028/PycharmProjects/PlayewrightLearning/PlayWright/playwrightBasics.py$AffectedModuleNames$" />
+      <item itemvalue="Python tests.Python tests in playwrightBasics.py" />
+      <item itemvalue="Python tests.Python tests for test_playwrightbasics.test_coreLocators" />
       <item itemvalue="Python tests.Python tests for TestPyTestValidation.test_initialCheck" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_playwrightbasics.test_coreLocators" />
         <item itemvalue="Python tests.Python tests for TestPyTestValidation.test_initialCheck" />
       </list>
     </recent_temporary>
@@ -395,7 +449,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747370576770</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1747370998955</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1747370998955</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
